@@ -1,15 +1,21 @@
-# ruff-org
-RUFF Foundation is a joint partnership (nonprofit) between Blazed Labs LLC and RTM Transportation LLC.
+# Ruff Management Inc
+<img src="https://blazed.sirv.com/ruff-manage.com/ruff-lion.png?w=100&h=100" align="right" />
 
-## Scope
-The scope of this venture is to encompass the general open source developments of the aforementioned companies.
+The Ruff Management Inc. company is a C-CORP incorporated executive management firm which manages the following companies' internal operations:
+- [Blazed Labs LLC](https://blazedlabs.com/)
+- [Concrete Games LLC](https://blazed.games/)
+- [RTM Transportation LLC](https://rtmtransit.com/)
 
-## Projects
-The Foundation will oversee the deliverable software produced by the two companies (as well as any contributors), and will be responsible for setting and enforcing standards to ensure software is delivered as promised and on time.
+## Divisions
+- [Property Management](https://www.ruff-manage.com/divisions/index.html?p=properties)
+- [Data Management](https://www.ruff-manage.com/divisions/index.html?p=data)
+- [Vending](https://www.ruff-manage.com/divisions/index.html?p=vending)
 
-## Quality
-The Foundation, being comprised of those whom demand quality in their craft, has been thus established, to ensure the quality of software produced by the aforementioned companies, and to thus deliver as per pre-established, the correct solution, which operates without fail.
+## Solutions
+- **Company Policy**: Our company's bylaws are integrated within our investor relations site, other policy documents can be found there as well.
+- **Financial Records**: The company's cash flow, asset holdings, and general valuation is open to be investigated by investors. We publish Income statements, Cash flow statements, Balance sheets, and Statements of change in equity.
+- **Project Management**: We work with our companies to help track projects and campaigns. We closely follow these projects and campaigns to support the project.
 
-## Questions, concerns, problems
-If need should ever arise, you can always give us a buzz using the following methods:
-- email: ruff@blz.one
+## Contact Us
+- [Online](https://www.ruff-manage.com/contact.html)
+- [Email](mailto:hello@blazed.space)
