@@ -1,6 +1,8 @@
 # Ruff Management Inc
 <img src="https://blazed.sirv.com/ruff-manage.com/ruff-lion.png?w=100&h=100" align="right" />
 
+[![Twitter](https://img.shields.io/twitter/follow/RuffManage?style=social "Follow Us")](https://twitter.com/RuffManage)
+
 The Ruff Management Inc. company is a C-CORP incorporated executive management firm which manages the following companies' internal operations:
 - [Blazed Labs LLC](https://blazedlabs.com/)
 - [Concrete Games LLC](https://blazed.games/)
@@ -10,6 +12,10 @@ The Ruff Management Inc. company is a C-CORP incorporated executive management f
 - [Property Management](https://www.ruff-manage.com/divisions/index.html?p=properties)
 - [Data Management](https://www.ruff-manage.com/divisions/index.html?p=data)
 - [Vending](https://www.ruff-manage.com/divisions/index.html?p=vending)
+
+## Chief Officers
+- Matthew Ruff (CEO)
+- Tyler Ruff (CFO)
 
 ## Solutions
 - **Company Policy**: Our company's bylaws are integrated within our investor relations site, other policy documents can be found there as well.
